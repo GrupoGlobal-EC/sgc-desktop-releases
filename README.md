@@ -3,6 +3,8 @@
 Instaladores oficiales de Grupo Global para Windows de 64 bits.
 Este repositorio distribuye paquetes; el codigo fuente se mantiene en un repositorio privado.
 
+[Pagina de descargas](https://grupoglobal-ec.github.io/sgc-desktop-releases/)
+
 | Ambiente | Descargar | Versiones |
 | --- | --- | --- |
 | Pruebas | [Instalador de SGC Pruebas](https://github.com/GrupoGlobal-EC/sgc-desktop-releases/releases/download/staging/SGC.Pruebas-staging-Setup.exe) | [Canal de pruebas](https://github.com/GrupoGlobal-EC/sgc-desktop-releases/releases/tag/staging) |

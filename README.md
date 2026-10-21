@@ -3,7 +3,7 @@
 Instaladores oficiales de Grupo Global para Windows de 64 bits.
 Este repositorio distribuye paquetes; el codigo fuente se mantiene en un repositorio privado.
 
-[Pagina de descargas](https://grupoglobal-ec.github.io/sgc-desktop-releases/)
+[Pagina de descargas](https://grupoglobal-ec.github.io/sgc-desktop-releases/index.html)
 
 | Ambiente | Descargar | Versiones |
 | --- | --- | --- |

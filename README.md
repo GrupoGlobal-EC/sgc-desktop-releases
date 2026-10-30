@@ -8,7 +8,7 @@ Este repositorio distribuye paquetes; el codigo fuente se mantiene en un reposit
 | Ambiente | Descargar | Versiones |
 | --- | --- | --- |
 | Pruebas | [Ver página de SGC Pruebas](https://grupoglobal-ec.github.io/sgc-desktop-releases/staging/instalador.html) | [Canal de pruebas](https://github.com/GrupoGlobal-EC/sgc-desktop-releases/releases/tag/staging) |
-| Produccion actual (ClickOnce) | [Ver página de SGC Producción](https://grupoglobal-ec.github.io/sgc-desktop-releases/production/instalador.html) | La nueva edicion se habilitara despues del piloto |
+| Producción | [Ver página de SGC Producción](https://grupoglobal-ec.github.io/sgc-desktop-releases/production/instalador.html) | Descarga deshabilitada hasta el aviso de Sistemas |
 
 La primera instalacion de la nueva edicion se hace con este instalador. Despues, las actualizaciones
 se pueden descargar desde la aplicacion, en **Engranajes > Ayuda > Buscar actualizacion**.

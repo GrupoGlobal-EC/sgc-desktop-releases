@@ -8,7 +8,7 @@ Este repositorio distribuye paquetes; el codigo fuente se mantiene en un reposit
 | Ambiente | Descargar | Versiones |
 | --- | --- | --- |
 | Pruebas | [Ver página de SGC Pruebas](https://grupoglobal-ec.github.io/sgc-desktop-releases/staging/instalador.html) | [Canal de pruebas](https://github.com/GrupoGlobal-EC/sgc-desktop-releases/releases/tag/staging) |
-| Producción | [Ver página de SGC Producción](https://grupoglobal-ec.github.io/sgc-desktop-releases/production/instalador.html) | Descarga deshabilitada hasta el aviso de Sistemas |
+| Producción | [Ver página de SGC Producción](https://grupoglobal-ec.github.io/sgc-desktop-releases/production/instalador.html) | Versión 1.8.10 · Nuevo instalador y actualizaciones desde la aplicación |
 
 La primera instalacion de la nueva edicion se hace con este instalador. Despues, las actualizaciones
 se pueden descargar desde la aplicacion, en **Engranajes > Ayuda > Buscar actualizacion**.
